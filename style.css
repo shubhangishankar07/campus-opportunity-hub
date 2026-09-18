@@ -3,10 +3,11 @@ body {
     background: #f5f7fb;
     text-align: center;
     margin: 0;
+    padding: 40px 20px;
 }
 
 h1 {
-    margin-top: 100px;
+    margin-top: 30px;
     font-size: 40px;
 }
 
@@ -15,10 +16,43 @@ p {
     color: #555;
 }
 
+h2 {
+    margin-top: 40px;
+}
+
+.opportunities {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 30px auto;
+}
+
+.card {
+    background: white;
+    width: 260px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+    font-size: 21px;
+}
+
+.card p {
+    font-size: 15px;
+}
+
 button {
     padding: 12px 25px;
     border: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 16px;
+    margin-top: 10px;
+}
+
+.card button {
+    margin-top: 5px;
 }
