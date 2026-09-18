@@ -1,36 +1,39 @@
-Campus Opportunity Hub
+# Campus Opportunity Hub
 
-A web platform designed to help college students discover, explore, and manage internship and job opportunities.
+A student-focused web platform for discovering internships and job opportunities.
 
-Features
+## Features
 
-- Student profile
-- Internship and job listings
-- Search and filter opportunities
-- Skill-based opportunity matching
-- Save opportunities
-- Apply and track application status
-- Student dashboard
-- Admin management
+- Search internship and job opportunities
+- Filter opportunities by category
+- Filter opportunities by location
+- Opportunity cards with company and required skills
+- Simple and responsive user interface
+- Interactive Explore Opportunities button
 
-Technologies
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- React
-- Node.js
-- Express.js
-- SQL
+- GitHub Pages
 
-Project Goal
+## Project Purpose
 
-The goal of this project is to provide students with a simple platform where they can find relevant career opportunities and keep track of their applications.
+Campus Opportunity Hub helps students find relevant career opportunities in one simple platform.
 
-Future Improvements
+## Future Scope
 
-- AI-based recommendation system
-- Resume analysis
-- Email notifications
-- Company verification
-- Advanced analytics
+- Student login and profile
+- Save opportunities
+- Application tracking
+- Skill-based recommendations
+- Admin dashboard
+
+## Live Demo
+
+https://shubhangishankar07.github.io/campus-opportunity-hub/
+
+## Author
+
+Shubhangi Shankar
