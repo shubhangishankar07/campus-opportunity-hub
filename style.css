@@ -56,3 +56,13 @@ button {
 .card button {
     margin-top: 5px;
 }
+#searchBox {
+    width: 80%;
+    max-width: 500px;
+    padding: 14px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
